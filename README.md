@@ -32,15 +32,15 @@ O repositório está organizado em 10 exercícios práticos focados no uso de es
 
 ### 👨‍💻 Desenvolvido por Breno Giovanni (Questões 06 a 10)
 
-6. **Calculadora Simples com Menu**
+6. **Calculadora Simples com Menu (`CalculadoraSimples.java`)**
    - **Objetivo:** Exibe um menu interativo com as opções de Soma, Subtração, Multiplicação, Divisão e Sair utilizando `do-while` e `switch-case`, com proteção contra divisão por zero.
-7. **Sequência de Fibonacci**
+7. **Sequência de Fibonacci (`Fibonacci.java`)**
    - **Objetivo:** Solicita um número inteiro $N$ e imprime os primeiros $N$ termos da sequência de Fibonacci ($0, 1, 1, 2, 3, 5, 8\dots$).
-8. **Caixa Eletrônico (Saque)**
+8. **Caixa Eletrônico (Saque) (`CaixaEletronico.java`)**
    - **Objetivo:** Simula as operações de um caixa eletrônico com saldo inicial (R$ 1000,00), validando saques, saldo insuficiente e opção de encerramento.
-9. **Identificador de Números Primos**
+9. **Identificador de Números Primos (`NumerosPrimos.java`)**
    - **Objetivo:** Verifica se um número inteiro positivo informado pelo usuário é primo, utilizando laços `for` para contagem de divisores.
-10. **Estatísticas de uma Turma**
+10. **Estatísticas de uma Turma (`EstatisticaTurma.java`)**
     - **Objetivo:** Pergunta a quantidade de alunos ($N$), coleta as idades correspondentes e calcula a maior idade, a menor idade e a média geral da turma.
 
 ---
